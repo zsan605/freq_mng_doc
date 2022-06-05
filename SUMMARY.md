@@ -5,7 +5,6 @@
 * [常见问题](question.md)
 * 更新记录
     * [Android](updateRecoder/android.md)
-* [用户协议](userAgreement.md)
 * [隐私政策](privacyPolicy.md)
     
 
